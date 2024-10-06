@@ -1,18 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\\uD559\uAD50 \uC218\uC5C5\\3\uD559\uB144\\2\uD559\uAE30\\\uCEF4\uD4E8\uD130 \uADF8\uB798\uD53D\uC2A4\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\",
+  "WorkspaceRootPath": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\\uD559\uAD50 \uC218\uC5C5\\3\uD559\uB144\\2\uD559\uAE30\\\uCEF4\uD4E8\uD130 \uADF8\uB798\uD53D\uC2A4\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 1\uBC88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 1\uBC88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\fragment.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\fragment.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\\uD559\uAD50 \uC218\uC5C5\\3\uD559\uB144\\2\uD559\uAE30\\\uCEF4\uD4E8\uD130 \uADF8\uB798\uD53D\uC2A4\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 2\uBC88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 2\uBC88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 2\uBC88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\\uD559\uAD50 \uC218\uC5C5\\3\uD559\uB144\\2\uD559\uAE30\\\uCEF4\uD4E8\uD130 \uADF8\uB798\uD53D\uC2A4\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\library.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 1\uBC88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 1\uBC88.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\vertex.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\vertex.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\shaderTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\shaderTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\default.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40FEE000-0980-4D70-B5C6-9A0729486CC6}|\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8.vcxproj|solutionrelative:\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\default.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +38,98 @@
       "DocumentGroups": [
         {
           "DockedWidth": 172,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "\uC2E4\uC2B5 2\uBC88.cpp",
-              "DocumentMoniker": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\\uD559\uAD50 \uC218\uC5C5\\3\uD559\uB144\\2\uD559\uAE30\\\uCEF4\uD4E8\uD130 \uADF8\uB798\uD53D\uC2A4\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 2\uBC88.cpp",
-              "RelativeDocumentMoniker": "\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 2\uBC88.cpp",
-              "ToolTip": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\\uD559\uAD50 \uC218\uC5C5\\3\uD559\uB144\\2\uD559\uAE30\\\uCEF4\uD4E8\uD130 \uADF8\uB798\uD53D\uC2A4\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 2\uBC88.cpp",
-              "RelativeToolTip": "\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 2\uBC88.cpp",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-02T07:59:08.949Z"
+              "DocumentIndex": 0,
+              "Title": "fragment.glsl",
+              "DocumentMoniker": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\fragment.glsl",
+              "RelativeDocumentMoniker": "\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\fragment.glsl",
+              "ToolTip": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\fragment.glsl",
+              "RelativeToolTip": "\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\fragment.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-06T10:32:10.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "vertex.glsl",
+              "DocumentMoniker": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\vertex.glsl",
+              "RelativeDocumentMoniker": "\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\vertex.glsl",
+              "ToolTip": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\vertex.glsl",
+              "RelativeToolTip": "\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\vertex.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-06T10:31:14.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "shaderTest.cpp",
+              "DocumentMoniker": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\shaderTest.cpp",
+              "RelativeDocumentMoniker": "\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\shaderTest.cpp",
+              "ToolTip": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\shaderTest.cpp",
+              "RelativeToolTip": "\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\shaderTest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T10:12:05.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "default.cpp",
+              "DocumentMoniker": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\default.cpp",
+              "RelativeDocumentMoniker": "\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\default.cpp",
+              "ToolTip": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\default.cpp",
+              "RelativeToolTip": "\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\default.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T09:53:21.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\uC2E4\uC2B5 2\uBC88.cpp",
+              "DocumentMoniker": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 2\uBC88.cpp",
+              "RelativeDocumentMoniker": "\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 2\uBC88.cpp",
+              "ToolTip": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 2\uBC88.cpp",
+              "RelativeToolTip": "\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 2\uBC88.cpp",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T07:59:08.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "\uC2E4\uC2B5 1\uBC88.cpp",
-              "DocumentMoniker": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\\uD559\uAD50 \uC218\uC5C5\\3\uD559\uB144\\2\uD559\uAE30\\\uCEF4\uD4E8\uD130 \uADF8\uB798\uD53D\uC2A4\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 1\uBC88.cpp",
+              "DocumentMoniker": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 1\uBC88.cpp",
               "RelativeDocumentMoniker": "\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 1\uBC88.cpp",
-              "ToolTip": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\\uD559\uAD50 \uC218\uC5C5\\3\uD559\uB144\\2\uD559\uAE30\\\uCEF4\uD4E8\uD130 \uADF8\uB798\uD53D\uC2A4\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 1\uBC88.cpp",
+              "ToolTip": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 1\uBC88.cpp",
               "RelativeToolTip": "\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uC2E4\uC2B5 1\uBC88.cpp",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAAAGcAAAAmAAAA",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAAGcAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-02T05:42:36.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "library.h",
-              "DocumentMoniker": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\\uD559\uAD50 \uC218\uC5C5\\3\uD559\uB144\\2\uD559\uAE30\\\uCEF4\uD4E8\uD130 \uADF8\uB798\uD53D\uC2A4\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\library.h",
+              "DocumentMoniker": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\library.h",
               "RelativeDocumentMoniker": "\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\library.h",
-              "ToolTip": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\\uD559\uAD50 \uC218\uC5C5\\3\uD559\uB144\\2\uD559\uAE30\\\uCEF4\uD4E8\uD130 \uADF8\uB798\uD53D\uC2A4\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\library.h",
+              "ToolTip": "C:\\Users\\kkth3\\OneDrive\\\uBB38\uC11C\\GitHub\\OpenGL\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\library.h",
               "RelativeToolTip": "\uCEF4\uADF8 OpenGL \uD504\uB85C\uC81D\uD2B8\\library.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-02T05:38:39.023Z"
+              "WhenOpened": "2024-10-02T05:38:39.023Z",
+              "EditorCaption": ""
             }
           ]
         }

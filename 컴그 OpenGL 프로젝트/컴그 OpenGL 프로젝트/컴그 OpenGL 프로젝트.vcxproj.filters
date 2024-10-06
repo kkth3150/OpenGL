@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="shader">
+      <UniqueIdentifier>{68dc6d7c-9ab5-4ea4-a5dd-4ea21c34a822}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="library.h">
@@ -26,5 +29,19 @@
     <ClCompile Include="실습 2번.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="default.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="shaderTest.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="vertex.glsl">
+      <Filter>shader</Filter>
+    </None>
+    <None Include="fragment.glsl">
+      <Filter>shader</Filter>
+    </None>
   </ItemGroup>
 </Project>

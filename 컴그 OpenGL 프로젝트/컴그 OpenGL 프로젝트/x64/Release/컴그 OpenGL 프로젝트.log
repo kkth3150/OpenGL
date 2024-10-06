@@ -1,0 +1,4 @@
+﻿  shaderTest.cpp
+C:\Users\kkth3\OneDrive\문서\GitHub\OpenGL\컴그 OpenGL 프로젝트\컴그 OpenGL 프로젝트\vertex.glsl(1,1): error C1021: 'version' 전처리기 명령이 잘못되었습니다.
+  (소스 파일 'shaderTest.cpp'을(를) 컴파일하는 중)
+  
