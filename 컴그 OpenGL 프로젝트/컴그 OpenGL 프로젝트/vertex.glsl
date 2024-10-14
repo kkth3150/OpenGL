@@ -1,11 +1,16 @@
 #version 330 core
 
+//---Pos = index 0
+//---Coloer = index 1
+
+layout (location = 0) in vec3 in_Position;
+layout (location = 1) in vec3 in_Color;
+out vec3 out_Color;
+
 void main()
 {
-	const vec4 vertex[3] = vec4[3](vec4(-0.25, -0.25, 0.5, 1.0), 
-									vec4(0.25, -0.25, 0.5, 1.0),
-									vec4(0.0, 0.25, 0.5, 1.0));
 
-	gl_Position = vertex [gl_VertexID];
+	gl_Position = vec4(in_Position.x,in_Position.y,in_Position.z,1.0);
+	out_Color = in_Color;
 
 } 

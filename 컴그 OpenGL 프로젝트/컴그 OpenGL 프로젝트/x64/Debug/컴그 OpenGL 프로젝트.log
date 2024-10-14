@@ -1,16 +1,3 @@
-﻿  실습 6번.cpp
-C:\Users\kkth3\OneDrive\문서\GitHub\OpenGL\컴그 OpenGL 프로젝트\컴그 OpenGL 프로젝트\실습 6번.cpp(45,16): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\kkth3\OneDrive\문서\GitHub\OpenGL\컴그 OpenGL 프로젝트\컴그 OpenGL 프로젝트\실습 6번.cpp(46,16): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\kkth3\OneDrive\문서\GitHub\OpenGL\컴그 OpenGL 프로젝트\컴그 OpenGL 프로젝트\실습 6번.cpp(53,17): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\kkth3\OneDrive\문서\GitHub\OpenGL\컴그 OpenGL 프로젝트\컴그 OpenGL 프로젝트\실습 6번.cpp(54,19): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\kkth3\OneDrive\문서\GitHub\OpenGL\컴그 OpenGL 프로젝트\컴그 OpenGL 프로젝트\실습 6번.cpp(55,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\kkth3\OneDrive\문서\GitHub\OpenGL\컴그 OpenGL 프로젝트\컴그 OpenGL 프로젝트\실습 6번.cpp(57,32): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\kkth3\OneDrive\문서\GitHub\OpenGL\컴그 OpenGL 프로젝트\컴그 OpenGL 프로젝트\실습 6번.cpp(212,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\kkth3\OneDrive\문서\GitHub\OpenGL\컴그 OpenGL 프로젝트\컴그 OpenGL 프로젝트\실습 6번.cpp(212,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\kkth3\OneDrive\문서\GitHub\OpenGL\컴그 OpenGL 프로젝트\컴그 OpenGL 프로젝트\실습 6번.cpp(213,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\kkth3\OneDrive\문서\GitHub\OpenGL\컴그 OpenGL 프로젝트\컴그 OpenGL 프로젝트\실습 6번.cpp(213,50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\kkth3\OneDrive\문서\GitHub\OpenGL\컴그 OpenGL 프로젝트\컴그 OpenGL 프로젝트\실습 6번.cpp(217,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\kkth3\OneDrive\문서\GitHub\OpenGL\컴그 OpenGL 프로젝트\컴그 OpenGL 프로젝트\실습 6번.cpp(217,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\kkth3\OneDrive\문서\GitHub\OpenGL\컴그 OpenGL 프로젝트\컴그 OpenGL 프로젝트\실습 6번.cpp(218,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\kkth3\OneDrive\문서\GitHub\OpenGL\컴그 OpenGL 프로젝트\컴그 OpenGL 프로젝트\실습 6번.cpp(218,50): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  실습 9번.cpp
+C:\Users\kkth3\OneDrive\문서\GitHub\OpenGL\컴그 OpenGL 프로젝트\컴그 OpenGL 프로젝트\실습 9번.cpp(95,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
   컴그 OpenGL 프로젝트.vcxproj -> C:\Users\kkth3\OneDrive\문서\GitHub\OpenGL\컴그 OpenGL 프로젝트\x64\Debug\컴그 OpenGL 프로젝트.exe

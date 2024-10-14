@@ -29,7 +29,7 @@
     <ClCompile Include="default.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="shaderTest.cpp">
+    <ClCompile Include="shaderDefault.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="실습 6번.cpp">
@@ -45,6 +45,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="실습 3번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습 7번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습 8번.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="실습 9번.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
